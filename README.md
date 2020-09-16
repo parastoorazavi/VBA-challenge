@@ -1,6 +1,6 @@
 ## VBA-challenge
 
-Analyze Stock Market for multiple year stock by using VBA 
+Analyze Stock Market for multiple year stock by using VBA :
 
 - if condition
 - for loop
